@@ -1,0 +1,9 @@
+{
+    "missing_values": {
+        "id": 0,
+        "Name": 1,
+        "age": 0,
+        "salary": 1
+    },
+    "duplicate_rows": 0
+}
