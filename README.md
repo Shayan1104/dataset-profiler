@@ -136,3 +136,4 @@ The resulting [`quality_report.json`](file:///c:/Users/hp/Desktop/New%20folder/d
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
